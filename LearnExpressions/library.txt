@@ -1,0 +1,7 @@
+Ich,io;0
+Du,tu;1
+Er,lui;1
+Sie,lei;0
+Wir,noi;1
+Ihr,voi;1
+Sie,loro;1
