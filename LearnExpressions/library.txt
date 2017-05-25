@@ -1,7 +1,1257 @@
-Ich,io;0
-Du,tu;1
-Er,lui;1
-Sie,lei;0
-Wir,noi;1
-Ihr,voi;1
-Sie,loro;1
+alla moda,modisch;3
+a quadri,kariert;1
+arancione,orange;3
+a righe,gestreift;3
+azzuro,himmelblau;4
+bianco,weiss;4
+blu,blau;3
+le calzature,die Fussbekleidung;3
+le calze, die Socken;3
+cambiare,wechseln;5
+il camerino,die Umkleidekabine;3
+la camicia,das Hemd;2
+il cappello,der Hut;3
+il cappotto,der Mantel;1
+la cartoleria,die Papeterie;4
+il centro commerciale,das Einkaufszentrum;2
+che taglia porti?,welche Groesse traegst du?;3
+chiaro,hell;3
+la cintura,der Guertel;3
+classico,klassisch;3
+il colore,die Farbe;2
+come mai?,wieso?(A2U1);5
+comodo,bequem;3
+comprare,kaufen;4
+convincere,ueberzeugen;2
+convinto,ueberzeugt;3
+corto,kurz;4
+il costume da bagno,der Badeanzug;3
+il cotone,die Baumwolle;4
+la cravatta,die Krawatte;4
+il cuoio,das Leder;5
+dimenticare,vergessen;2
+di solito,normalerweise;2
+due paia di scarpe,zwei Paar Schuhe;4
+elegante,elegant;2
+farmacia,Apotheke;3
+il fazzoletto,das Taschentuch;4
+la giacca,die Jacke;5
+giallo,gelb;6
+gli occhiali da sole,die Sonnenbrille;3
+gli stivali,die Stiefel;3
+la gonna,der Rock;3
+grigio,grau;3
+i guanti,die Handschuhe;3
+i jeans,die Jeans;3
+indossare,tragen;3
+i pantaloni,die Hose;3
+i sandali,die Sandalen;3
+l'abbigliamento,die Kleidung;3
+l'abito da sposa,das Brautkleid;2
+l'abitudine,die Gewohnheit;4
+la lana,die Wolle;5
+largo,breit;2
+leggero,leicht;3
+la libreria,die Buchhandlung;2
+l'impermeabile,der Regenmantel;3
+lungo,lang;7
+la maglietta,das T-Shirt;3
+il maglione,der Pullover;2
+marrone,braun;2
+il meccanico,der Mechaniker;2
+il negozio di abbigliamento,das Kleidungsgeschaeft;1
+nero,schwarz;4
+il numero di scarpe,die Schuhgroesse;3
+ottima qualita`,beste Qualitaet;2
+il paio di scarpe,ein Paar Schuhe;5
+la pantofole,die Hausschuhe;2
+il parrucchiere,der Frisuer;3
+pesante,schwer;2
+il pigiama,der Schlafanzung;2
+pratico,praktisch;2
+il prezzo,der Preis;2
+la profumeria,die Parfuemerie;3
+quanto costa/viene?,wie viel kostet es? c/v;2
+rosa,rosa;3
+rosso,rot;4
+le scarpe,die Schuhe;3
+le scarpe da ginnastica,die Turnschuhe;2
+la sciarpa,der Schal;3
+scomodo,unbequem;3
+lo scontrino,der Kassenzettel;3
+scuro,dunkel;3
+la seta,die Seide;2
+sia...che...,sowohl...als auch...;3
+sportivo,sportlich;2
+stretto,eng;2
+il tacco,der Absatz;4
+la taglia,die Groesse;3
+la tuta da sci,der Skianzug;2
+verde,gruen;2
+vestirsi,sich anziehen;3
+il vestito,das Kleid;3
+il vestito da uomo,der Anzug;3
+la vetrina,das Schaufenster;1
+viola,violett;4
+accompagnare,begleiten;3
+all'aperto,im Freien;2
+allergico,allergisch;3
+il cambiamento,die Veraenderung;3
+la campagna,das Land;2
+il cane,der Hund;2
+cattivo,boese/schlecht;3
+il cavallo,das Pferd;3
+la classifica,die Rangliste;3
+il coniglio,das Kaninchen;4
+costringere,zwingen;2
+il criceto,der Hamster;2
+da bambino,als Kind;5
+il delfino,der Delfin;4
+diffuso,verbreitet;2
+divertirsi,sich amuesieren;2
+enorme,sehr gross;3
+la farfalla,der Schmetterling;3
+la fattoria,der Bauernhof;3
+il gatto,die Katze;3
+il ghepardo,der Gepard;5
+i fumetti,die Comics;3
+in un certo senso,in gewissem Sinne;3
+l'armonia,die Harmonie;3
+il leone,der Loewe;2
+l'infanzia,die Kindheit;4
+la lite,der Streit;2
+l'uccello,der Vogel;2
+la malattia,die Krankheit;2
+la malinconia,die Melancholie;2
+la materia,das Fach;2
+noioso,langweilig;5
+il parco giochi,der Spielplatz;2
+passare,verbringen p;2
+peccato,schade;3
+portare fuori,hinausbringen;3
+poverina!,die Arme!;3
+promettere,versprechen;3
+proteggere,schuetzen;3
+purtroppo,leider;2
+raccontare,erzaehlen;3
+la razza,die Rasse;3
+riconoscere,erkennen;3
+il ricordo,die Erinnerung;4
+ripensare,zurueckdenken;3
+riuscire a fare qualcosa,etwas schaffen;2
+il romanzo,der Roman;3
+la scelta,die Auswahl;3
+il serpente,die Schlange;2
+severo,streng;2
+soffrire,leiden;2
+il sondaggio,die Umfrage;2
+sporcare,beschmutzen;5
+la tartaruga,die Schildkroete;3
+la tigre,der Tiger;3
+trascorrere,verbringen t;3
+trasformarsi,sich verwandeln;4
+viziare,verwoehnen;3
+una volta,einmal;3
+ciao,Hallo;2
+o,oder (kurzes wort);0
+buongiorno,Guten Tag;1
+buonasera,Guten Abend;0
+la signora,die Frau;1
+il dottore,der Doktor;1
+il professore,der Professor;0
+scusi,entschuldigung (Sie);0
+scusa,entschuldigung(du);0
+Lei,Sie;1
+come,wie;2
+e,und;2
+tu,du;0
+io,ich;1
+piacere!,angenehm!;1
+anche,auch;0
+il signore,der Herr;1
+essere,sein;1
+chiamarsi,heissen;0
+il cafe`,der Kaffee;1
+si`,ja;1
+il parmigiano,der Parmesankaese;0
+arrivederci,auf wiedersehen;1
+lo zucchero,der Zucker;0
+il gelato,das Speiseeis;1
+la Germania,das Deutschland;0
+il formaggio,der Kaese;1
+il lago,der See;0
+il cuore,das Herz;1
+provare,versuchen;0
+leggere,lesen;1
+la cioccolata,die Schokolade;0
+la macchina,das Auto;1
+il giornale,die Zeitung;2
+di,aus;0
+Luigi e` di Torino,Luigi kommt aus Turin;0
+dove,wo;2
+inglese,englisch;1
+irlandese,irisch;1
+tedesco,deutsch;1
+austriaco,oesterreicher;0
+Italia,Italien;1
+italiano,italienisch;3
+svizzero,schweizerisch;2
+Spagna,Spanien;1
+spagnolo,spanisch;1
+Inghilterra,England;0
+Irlanda,Irland;0
+Portogallo,Portugal;1
+portoghese,portugiesisch;0
+Francia,Frankreich;1
+francese,franoesisch;0
+la fine,das Ende;1
+la lezione,die Lektion;1
+a presto,bis bald;1
+a domani,bis morgen;0
+domani,morgen;0
+buonanotte,gute nacht;1
+il numero,die Nummer;1
+il telefono,das Telefon;1
+l'indirizzo,die Adresse;0
+la via,die Strasse;1
+pero`,aber (p);1
+il cellulare,das Handy;1
+il nome,der Vorname;0
+il cognome,der Familienname;2
+la piazza,der Platz (z.b. Alexanderplatz);0
+anch'io,ich auch;0
+l'alfabeto,das Alphabet;0
+la lettera,der Buchstabe;0
+straniero,fremd;1
+il gatto,die Katze;1
+il medico,der Arzt;2
+il cane,der Hund;1
+il cinema,das Kino;0
+primo,erster;1
+l'incontro,die Begegnung;0
+come si chiama?,wie heissen Sie?;0
+come ti chiami?,wie heisst du?;1
+chi e`?,wer ist das?;0
+di dove sei?,woher kommst du?;0
+come si scrive?,wie schreibt man das?;0
+giurisprudenza,Rechtswissenschaften;1
+l'economia,die Wirtschaft;1
+le lingue straniere,die Fremdsprachen;1
+la storia,die Geschichte;1
+le scienze politiche,die Politikwissenschaften;0
+la scienza delle comunicazioni,die Publizistik;0
+la filosofia,die Philosophie;0
+l'architettura,die Architektur;0
+la fisica,die Physik;1
+la matematica,die Mathematik;0
+l'ingegneria agraria,die Agrarwissenschaft;1
+l'ingegneria ambientale,die Umweltwissenschaften;0
+l'ingegneria civile,das Bauingenieurwesen;1
+la medicina,die Medizin;1
+l'ingegneria meccanica,die Maschineningenieurswissenschaften;1
+la medicina veterinaria,die Veteriaermedizin;0
+le scienze biotecnologiche,die Biotechnologie;0
+studio lettere,ich studiere Geisteswissenschaften;1
+stare,sich fuehlen;0
+bene,gut;0
+male,schlecht (m);0
+ieri,gestern;1
+oggi,heute;1
+proprio,wirklich;1
+questo,dieser;1
+sapere,wissen;0
+parlare,sprechen;1
+l'amico,der Freund;0
+chi,wer;0
+che lingue parli?,welche Sprachen sprichst du?;2
+greco,griechisch;1
+olandese,niederlaendisch;0
+russo,russisch;1
+svedese,schwedisch;1
+la presentazione,die Vorstellung;0
+la festa,die Party;1
+la libreria,die Buchhandlung;2
+presentare,vorstellen;1
+la persona,die Person;1
+fare,machen;0
+la segretaria,die Sekretaerin;1
+qui,hier;1
+che cosa fate di bello?,was macht Ihr Schoenes?;1
+studiare,studieren;1
+lavorare,arbeiten;0
+il lavoro,die Arbeit;1
+la scuola di lingue,die Sprachschule;1
+l'impiegato,der Angestellte;1
+l'avvocato,der Anwalt;0
+lo studio legale,die Anwaltskanzlei;0
+l'architetto,der Architekt;1
+il chirurgo,der Chirurg;0
+insegnare,lehren;1
+l'insegnante,der Lehrer/die Lehrerin;2
+abitare,wohnen;1
+l'ufficio,das Buero;0
+l'agenzia,die Agentur;0
+la farmacia,die Apotheke;1
+il farmacista,der Apotheker;2
+il ristorante,das Restaurant;0
+il commesso,der Verkaeufer;0
+il negozio,der Laden;1
+l'infermiere,der Krankenpfleger;0
+il cuoco,der Koch;1
+per conoscerci meglio,um uns besser kennenzulernen;0
+dove abiti?,wo wohnst du?;0
+cercare,suchen;1
+la camera,das Zimmer (c);0
+la famiglia,die Familie;1
+la conversazione,die Konversation;0
+strano,merkwuerdig;1
+forse,vielleicht;0
+non,nicht;1
+i soldi,das Geld;1
+piccolo,klein;0
+grande,gross;2
+la stanza,das Zimmer (s);0
+libero,frei;0
+occupato,besetzt;1
+il figlio,der Sohn;1
+avere bisogno di,brauchen;1
+invitare,einladen;0
+l'invito,die Einladung;1
+l'anno,das Jahr;1
+la zona,das Gebiet;1
+tradurre,uebersetzen;1
+la traduzione,die Uebersetzung;1
+lo zio,der Onkel;1
+cantare,singen;1
+il cantante,der Saenger;1
+la canzone,das Lied;0
+quanit anni hai?,wie alt bist du?;0
+di piu`,mehr;0
+di meno,weniger;0
+l'operaio,der Arbeiter;1
+come stai?,wie geht es dir?;2
+come va?,wie geht es?;1
+che lavoro fai?,was ist dein Beruf?;1
+indovinare,raten;0
+indovina!,rate mal!;0
+allora,also;0
+altro,anderer;0
+amare,lieben;2
+ancora,noch;1
+ancora qualcosa,noch etwas;0
+aperto,geoeffnet;0
+bere,trinken;0
+la bevanda,das Getraenk;2
+il bicchiere,das Glas;0
+la birra,das Bier;0
+la bottiglia,die Flasche;1
+buon appetito,guten Appetit;0
+buonissimo,sehr fein;2
+il burro,die Butter;1
+il caffe` macchiato,der Espresso (mit einem Schuss Milch);0
+la carne,das Fleisch;0
+la cena,das Abendessen;0
+certo,sicher;0
+che bevande sono?,was fuer getraenke sind das?;1
+che cosa avete oggi?,was haben Sie heute?;1
+chiuso,geschlossen;1
+circa,ungefaehr;1
+la colazione,das Fruehstueck;0
+il coltello,das Messer;0
+con,mit;1
+conoscere,kennen;2
+il conto,die Rechnung;1
+il contorno,die Beilage;2
+il cornetto,das Hoernchen;1
+cosi`,so;0
+cotto,gekocht;2
+la crema,die Creme;1
+crudo,roh;1
+il cucchiaio,der Loeffel;1
+il cucchiaino,der Teeloeffel;0
+da bere,zum Trinken;1
+d'accordo,einverstanden;1
+da mangiare,zum Essen;1
+desiderare,wuenschen;0
+il dolce,das Dessert;1
+la domenica,der Sonntag;0
+un tavolo,ein Tisch;0
+prenotare,reservieren;0
+fino a,bis zu;0
+la forchetta,die Gabel;0
+fresco,frisch;1
+la frutta,das Obst;1
+l'aceto,der Essig;0
+l'acqua minerale,das Mineralwasser;0
+l'acqua minerale gasata,das Mineralwasser mit Kohlensaeure;1
+l'acqua minerale naturale,das Mineralwasser ohne Kohlensaeure;2
+l'antipasto,die Vorspeise;0
+l'aperitivo,der Aperitiv;1
+l'aranciata,die Orangenlimonade;0
+il latte,die Milch;1
+il limone,die Zitrone;0
+l'insalata,der Salat;1
+il litro,der Liter;1
+l'olio,das Oel;1
+il lunedi`,der Montag;1
+la macedonia,der Fruchtsalat;1
+magari,vielleicht (m);2
+il maiale,das Schwein;0
+mangiare,essen;1
+la marmellata,die Marmelade;2
+il martedi`,der Dienstag;0
+la mattina,der Morgen;0
+il menu`,die Speisekarte;1
+mezzo,halb;2
+il mezzogiorno,der Mittag;0
+la minestra,die Suppe;1
+un momento,einen Augenblick;1
+la notte,die Nacht;1
+ordinare,bestellen;1
+il pane,das Brot;1
+il panino,das Broetchen;0
+la pasta,die Nudeln;1
+la pasta fatta in casa,die hausgemachten Nudeln;1
+la patata,die Kartoffel;1
+il pepe,der Pfeffer;1
+per,fuer;1
+per favore,bitte (f);1
+per cortesia,bitte (c);0
+per primo,als erster Gang;1
+la persona,die Person;0
+il pesce,der Fisch;0
+il piatto,der Teller;0
+un po' di pane,ein bisschen Brot;1
+poi,dann;0
+il pollo,das Huhn;1
+il pomeriggio,der Nachmittag;1
+il pranzo,das Mittagessen;0
+preferire,bevorzugen;0
+prendere,nehmen;1
+la prenotazione,die Reservierung;1
+il prezzo,der Preis;1
+il primo,der erste Gang;1
+il prosciutto,der Schinken;1
+qualcos'altro,etwas anderes;1
+quando,wann;2
+il quarto,das Viertel;0
+il ragazzo,der Junge;1
+rosso,rot;2
+il sabato,der Samstag;0
+la sala,der Saal;0
+il sale,das Salz;1
+la scelta,die Auswahl;0
+il secondo,der zweite Gang;2
+senza,ohne;1
+la sera,der Abend;1
+il servizio,der Service;2
+solo,nur;1
+la spremuta,der frisch gepresste Fruchtsaft;1
+il te`,der Tee;1
+il tempo,das Wetter/die Zeit;2
+il toast,der Toast;0
+il tovagliolo,die Serviette;0
+il tramezzino,das Sandwich;1
+la trattoria,die Gastwirtschaft;0
+volere,wollen;1
+vorrei,ich moechte;0
+l'attivita`,die Taetigkeit;0
+il giardino,der Garten;0
+dormire,schlafen;0
+leggere,lesen;1
+ballare,tanzen;1
+lo sport,der Sport;0
+di solito,gewoehnlich;1
+andare in bicicletta,Velo fahren;0
+quasi,fast;0
+sempre,immer;1
+a casa,zu Hause;0
+guardare la TV,fernsehen;0
+a lungo,lange;0
+andare al cinema,ins Kino gehen;1
+giocare,spielen (ein Spiel);1
+giocare a tennis,Tennis spielen;0
+fare una passeggiata,spazieren gehen;0
+fare la spesa,einkaufen gehen;1
+ascoltare la musica,Musik hoeren;0
+giocare a carte,Karten spielen;1
+che,der/die/das (der ball, DER...);1
+il fine settimana,das Wochenende;0
+la settimana,die Woche;1
+il sabato sera,samstagabends;1
+la sera,der Abend;0
+uscire,ausgehen;0
+la discoteca,die Disco;1
+spesso,oft;0
+insieme,zusammen;0
+qualche volta,manchmal;0
+il mercoledi`,der Mittwoch;0
+il giovedi`,der Donnerstag;1
+il venerdi`,der Freitag;1
+mai,nie;1
+scrivere,schreiben;1
+fuori,auswaerts;2
+andare a teatro,ins Theater gehen;1
+andare a sciare,ski fahren gehen;0
+giusto,richtig;1
+sbagliato,falsch;0
+la frase,der Satz;1
+c'e`,es gibt (singuar);0
+ci sono,es gibt (plural);2
+lo stesso,der/das selbe;0
+il testo,der Text;0
+la domanda,die Frage;1
+l'eta`,das Alter;0
+la professione,der Beruf;0
+insegnare,unterrichten;1
+da,seit;0
+il mese,der Monat;0
+la piscina,das Schwimmbad;2
+giocare a calcio,Fussball spielen;1
+il calcio,der Fussball;1
+oppure,oder (langes wort);0
+suonare,spielen (instrument);0
+molto,sehr;1
+mi piace,mir gefaellt;2
+viaggiare,reisen;0
+per lavoro,fuer den Beruf;2
+da sei mesi,seit sechs Monaten;0
+imparare,lernen;2
+il libro,das Buch;0
+mi piacciono,mir gefallen;0
+moltissimo,sehr (langes wort);2
+la canzone,das Lied;0
+volentieri,gerne;0
+da poco,seit Kurzem;0
+soprattutto,vor allem;0
+lo strumento,das Instrument;1
+il ragazzo,der Freund;0
+fra,unter;0
+il ballo,der Ball;0
+sudamericano,suedamerikanisch;1
+l'opera,die Oper;1
+ti piace il concerto?,Gefaellt dir das Konzert?;1
+per niente,ueberhaupt nicht;0
+il film giallo,der Krimifilm;1
+a letto,im Bett;1
+l'arte moderna,die moderne Kunst;1
+anche a me,mir auch;1
+a me invece no,mir aber nicht;0
+neanche a me,mir auch nicht;0
+a me invece si`,mir dagegen schon;2
+l'intervista,das Interview;1
+durante,waehrend;1
+poco,wenig;0
+la gente,die Leute;1
+da solo,allein;1
+che ora e`?,wie spaet ist es?;1
+sono le due,es ist zwei uhr;1
+sono le due e un quarto,es ist viertel nach zwei;1
+sono le due e mezza,es ist halb drei;1
+sono le tre meno venti,es ist zwanzig vor drei;1
+e`mezzogiorno,es ist Mittag;0
+e`mezzanotto,es ist Mitternacht;0
+adesso,jetzt;0
+l'ora,die Uhrzeit;1
+che sport fai?,welche Sportarten treibst du?;1
+mangiare fuori,auswaerts essen;1
+il mio ragazzo,mein Freund;0
+che giorno e`oggi?,welchen Tag haben wir heute?;0
+lunedi`,Montag;0
+martedi`,Dienstag;1
+mercoledi`,Mittwoch;1
+sabato,Samstag;0
+la domenica,der Sonntag;0
+in albergo,im Hotel;1
+il bagno,das Badezimmer;0
+la camera singola,das Einzelzimmer;0
+la camera matrimoniale,das Zimmer mit Ehebett;1
+il parcheggio,der Parkplatz;0
+la doccia,die Dusche;1
+la colazione,das Fruehstueck;0
+la connessione internet,die Internetverbindung;1
+ideale,ideal;1
+l'ambiente,die Umgebung;0
+familiare,familiaer;0
+tipico,typisch;1
+a due passi da,nur wenige Schritte entfernt von;0
+il centro storio,die Altstadt;0
+privato,privat;1
+l'aria condizionata,die Kimaanlage;0
+sotto,unten;1
+compreso nel prezzo,im Preis inbegriffen;0
+la camera tripla,Zimmer fuer drei Personen;1
+la TV satellitare,das Satellitenfernsehen;0
+la cucina internazionale,die internationale Kueche;1
+elegante,elegant;1
+la villa,die Villa;0
+il quartiere,das Stadtviertel;0
+alcuni,einige;1
+a persona,pro Person;1
+l'orario,die Zeit (langes Wort);1
+il rientro,die Rueckkehr;0
+tutto l'anno,das ganze Jahr;1
+la vacanza,der Urlaub;1
+economico,preiswert;1
+caro,teuer;1
+e`possibile,es ist moeglich;0
+tranquillo,ruhig;0
+in centro,im Zentrum;1
+prenotare,reservieren;1
+la notte,die Nacht;0
+la conferma,die Bestaetigung;0
+la carta di credito,die Kreditkarte;1
+senta,hoeren Sie;1
+prossimo,naechster;1
+dunque,also (d);1
+va bene,in Ordnung;1
+potere,koennen;0
+quindi,also (q);0
+solo,nur;1
+perfetto,perfekt;0
+dire,sagen;1
+quanto viene?,wie viel kostet?;0
+lasciare,lassen;1
+subito,sofort;2
+il periodo,der Zeitraum;0
+il cuscino,das Kissen;0
+il tavolo,der Tisch;0
+la vaglia,der Koffer;0
+la carta igienica,das Toilettenpapier;0
+la coperta,die Bettdecke;0
+la sedia,der Stuhl;0
+l'armadio,der Schrank;0
+la lampada,die Lampe;1
+il termosifone,der Heizkoerper;0
+l'asciugamano,das Handtuch;1
+il problema,das Problem;1
+funzionare,funktionieren;1
+grazie mille,tausend Dank;0
+spegnere,ausschalten;0
+qualcuno,jemand;0
+controllare,kontrollieren;1
+si figuri,keine Ursache;0
+venire,kommen;0
+mancare,fehlen;1
+l'ingresso,der Eingang;0
+il soggiorno,das Wohnzimmer;0
+la cucina,die Kueche;1
+caro Mario,lieber Mario;1
+finalmente,endlich;1
+dimmi,sag mir;1
+l'appartamento,die Wohnung;0
+seguente,folgend;0
+la data,das Datum;0
+confermare,bestaetigen;0
+distinti saluti,hochachtungsvoll;0
+carino,huebsch (aennlich);0
+il piano terra,das Erdgeschoss;0
+a pochi metri da,wenige Meter von;0
+il mare,das Meer;1
+comodo,bequem;0
+tutti insieme,alle zusammen;1
+mi manchi,du fehlst mir;1
+la sorella,die Schwester;0
+da favola,fabelhaft;0
+ottimo,ausgezeichnet;0
+offrire,anbieten;1
+il bilocale,die Zweizimmerwohnung;0
+a pochi minuti da,wenige Minuten entfernt von;0
+la spiaggia,der Strand;0
+il piano,das Stockwerk;0
+l'ascensore,der Aufzug;0
+vicino a,nahe bei;0
+la stazione,der Bahnhof;0
+il lungomare,die Strandpromenade;0
+il posto auto,der Autoabstellplatz;0
+la settimana bianca,die Sportferien (1 Woche im Winter);1
+l'affitto,die Miete;0
+situato,gelegen;0
+zona centrale,zentrales Gebiet;0
+arredato,eingerichtet;0
+il riscialdamento,die Heizung;0
+la lavatrice,die Waschmaschine;0
+mensile,monatlich;0
+vista mare,Meersicht;0
+ingresso indipendente,eigener Eingang;0
+da..a..,von..bis..;1
+il balcone,der Balkon;0
+doppi servizi,zwei Baeder;0
+primo,erster;0
+secondo,zweiter;1
+terzo,dritter;0
+quarto,vierter;0
+quinto,fuenfter;0
+sesto,sechster;0
+settimo,siebter;0
+ottavo,achter;0
+nono,neunter;0
+decimo,zehnter;0
+in vacanza,im Urlaub;1
+mettere,stellen;1
+saluti da,Gruesse von/aus;0
+in giro,unterwegs;0
+vero,wahr;0
+tante cose da vedere,viele Dinge zu sehen;0
+il cliente,der Kunde;0
+li`,dort;0
+spesso,oft;1
+il mercato,der Markt;1
+l'universita`,die Universitaet;0
+la chiesa,die Kirche;0
+famoso,beruehmt;1
+il museo,das Museum;1
+ci,dorthin;0
+la mostra,die Ausstellung;0
+il teatro,das Theater;0
+a Pasqua,zu Ostern;0
+proprio,wirklich;1
+cosa c'e`?,was gibt es?;0
+il palazzo,der Palast;0
+antico,antik;0
+l'edificio,das Gebaeude;0
+il castello,das Schloss;0
+la torre,der Turm;0
+importante,wichtig;0
+vivace,lebhaft;0
+rumoroso,laut;1
+la passeggiata,der Spaziergang;0
+il portico,der Bogengang;0
+sotto,unter;0
+la vetrina,das Schaufenster;0
+per esempio,zum Beispiel;0
+il parco,der Park;1
+avere ragione,Recht haben;0
+inoltre,ausserdem;0
+prendere il treno,den Zug nehmen;1
+il posto,der Ort;0
+nei dintorni,in der Umgebung;0
+l'ufficio informazioni,das Informationsbuero;0
+'autobus,der Bus;0
+il turista,der Tourist;0
+dovere,muessen;0
+avanti!,herein!;0
+il mio turno,mein Zug (an der Reihe sein);0
+pure,ruhig (p);0
+di preciso,genau;0
+davanti a,vor;0
+scendere,aussteigen;0
+la fermata,die Haltestelle;0
+il duomo,der Dom;0
+la posta,die Post;1
+a destra,rechts;0
+a sinistra,links;1
+aspettare,warten;0
+dritto,geradeaus;2
+il semaforo,die Ampel;0
+la traversa,die Querstrasse;1
+l'incrocio,die Kreuzung;0
+peccato,schade;1
+se,ob;1
+mi dispiace,es tut mir leid;2
+bere,trinken;0
+la birreria,die Bierstube;0
+il locale,das Lokal;0
+grazie lo stesso,trotzdem vielen Dank;0
+la cucina tipica,die typische Kueche;1
+subito,sofort;0
+continuare dritto,geradeaus weitergehen;1
+fino a,bis zu;0
+attraversare,ueberqueren;0
+girare,abbiegen;0
+accanto a,neben;0
+la cartina,die Landkarte;0
+il percorso,die Route;0
+qui,hier;1
+il supermercato,der Supermarkt;0
+il distributore di benzina,die Tankstelle;0
+di fronte a,gegenueber;1
+la banca,die Bank;0
+la scuola,die Schule;1
+all'angolo,an der Ecke;0
+dietro,hinter;1
+la visita,die Besichtigung;0
+lontano da,weit von;0
+vicino a,in der aehe von;0
+a piedo,zu Fuss;0
+arrivare,ankommen;0
+ti ringrazio,ich danke dir;0
+non c'e` di che,gern geschehen;0
+non sono di qui,ich bin nicht von hier;1
+a che ora?,um wie viel Uhr?;0
+partire,abfahren;0
+il prossimo autobus per,der naechste Bus nach;1
+quando?,wann?;0
+il treno da,der Zug aus;0
+cominciare,beginnen;1
+lo spettacolo,die Vorstellung;1
+chiudere,schliessen;0
+aprire,oeffnen;0
+la zona pedonale,die Fussgaengerzone;0
+l'edicola,der Kiosk;0
+giorni festivi,Festtage;0
+giorni feriali,Arbeitstage;0
+l'orario continuato,die durchgehenden Oeffnungszeiten;0
+i mezzi pubblici,die oeffentlichen Verkehrsmittel;0
+il bancomat,der Geldautomat;0
+lo sportello,der Schalter;0
+l'idea,die Idee;1
+il viaggio,die Reise;0
+il pernottamento,die Uebernachtung;0
+la partenza,die Abfahrt;0
+la meditazione,die Meditation;0
+il convento,das Kloster;0
+la pensione completa,die Vollpension;0
+a scelta,nach Wahl;1
+la tappa,die Etappe;0
+giornaliero,taeglich;0
+il volo,der Flug;0
+l'alloggio,die Unterkunft;0
+il servizio,der Dienst;0
+il centro benessere,das Wellness-Center;0
+il reparto,die Abteilung;0
+la cura,die Kur;0
+il massaggio,die Massage;0
+la dieta,die Diaet;1
+la mezza pensione,die Halbpension;0
+l'escursione,der Ausflug;0
+la guida,der Fuehrer;0
+il corpo,der Koerper;0
+tradizionale,traditionell;1
+stressato,gestresst;0
+il silenzio,die Ruhe;0
+la natura,die Natur;0
+dinamico,dynamisch;1
+sportivo,sportlich;1
+alcuni,einige;0
+assoluto,absolut;0
+l'offerta,das Angebot;0
+pranzare,zu Mittag essen;0
+il pomeriggio,der Nachmittag;1
+salutare,gruessen;1
+andare a letto,ins Bett gehen;0
+salire,hinaufsteigen,einsteigen;0
+indimenticabile,unvergesslich;1
+stamattina,heute Morgen;1
+il giro in barca,die Bootsfahrt;1
+splendido,wunderbar;0
+stasera,heute Abend;0
+tornare,zurueckkehren;1
+il bacio,der Kuss;0
+breve,kurz (b);0
+diverso,unterschiedlich;0
+ognuno,jeder;0
+raccontare,erzaehlen;1
+quelle che,das, was;0
+il campeggio,der Campingplatz;1
+la tenda,das Zelt;1
+fare surf,surfen;0
+fare un giro in bicicletta,eine Fahrradtour machen;1
+fare la doccia,duschen;0
+preparare,vorbereiten;1
+il vaporetto,das Dampfboot;0
+fare fotografie,fotografieren;0
+incontrare,treffen;0
+affittare,vermieten;0
+usare,benutzen;1
+chiaro,klar;1
+che domanda,was fuer eine frage;1
+presto,frueh;0
+come al solito,wie ueblich;0
+fare il bagno,baden;0
+prendere il sole,sonnenbaden;0
+piu` tardi,spaeter;0
+niente di particolare,nichts Besonderes;0
+rimanere,bleiben;1
+mettere in ordine,aufraeumen;0
+dopo,danach;0
+per fortuna,zum Glueck;0
+scorso,vergangen;0
+parlare al telefono,telefonieren;1
+l'itinerario,die Route;0
+seguire,folgen;0
+l'ospite,der Gast;0
+medioevale,mittelalterlich;0
+il passato,die Vergangenheit;0
+il tempo,das Wetter;0
+riferirsi a,sich beziehen auf;0
+la nuvola,die Wolke;0
+il Nord,der Norden;0
+qualche,einige (q);0
+il temporale,das Gewitter;0
+le Alpi,die Alpen;0
+la temperatura,die Temperatur;1
+sopra la media,ueber dem Durchschnitt;0
+caldo,heiss,warm;0
+il vento,der Wind;0
+debole,schwach;0
+la brezza,die Brise;0
+la costa,die Kueste;0
+calmo,ruhig (c);1
+l'Est,der Osten;0
+l'Ovest,der Westen;0
+il Sud,der Sueden;0
+che tempo fa?,wie ist das Wetter?;0
+pronto?,Hallo?;0
+appena,gerade;0
+il bosco,der Wald;0
+di nuovo,wieder;1
+a dire il vero,um ehrlich zu sein;0
+anzi,im Gegenteil;0
+abbastanza,ziemlich;0
+brutto,schlecht (b);0
+fa freddo,es ist kalt;0
+non piove piu`,es regnet nicht mehr;0
+fa caldo,es ist heiss;1
+addirittura,sogar;0
+che freddo!,was fuer eine Kaelte!;0
+affettato,aufgeschnitten;0
+aggiungere,hinzufuegen;0
+almeno,mindestens;0
+appunto,eben;0
+a tavola,bei Tisch;0
+il biscotto,der Keks;0
+la bistecca,das Steak;0
+il burro,die Butter;1
+la carne macinata,das Hackfleisch;0
+la cassa,die Kasse;1
+la castagna,die Kastanie;0
+il centesimo,der Cent;1
+il chilo,das Kilo;0
+la ciliegia,die Kirsche;0
+la cipolla,die Zwiebel;0
+il cocomero,die Wassermelone;0
+la confezione,die Verpackung;0
+cotto,gekocht;0
+crudo,roh;1
+cuocere,kochen;0
+difficile,schwierig;1
+discutere,diskutieren;0
+diventare,werden;0
+ecco!,hier bitt!;0
+ecco fatto,so fertig;0
+fresco,frisch;0
+il frigo,der Kuehlschrank;0
+il fuoco,das Feuer;0
+gli alimentari,die Lebensmittel;0
+grosso,dick;0
+i salumi,die Wurstwaren;0
+'abitudine,die Gewohnheit;0
+l'aceto,der Essig;1
+l'aglio,der Knoblauch;0
+l'arancia,die Orange;0
+l'autunno,der Herbst;1
+l'estate,der Sommer;0
+l'etto,100 Gramm;0
+l'inverno,der Winter;0
+il litro,der Liter;1
+l'uovo,das Ei;0
+l'uva,die Traube;0
+la macelleria,die Metzgerei;0
+mescolare,vermischen;0
+mettere,stellen;1
+il miele,der Honig;1
+ne,davon;1
+nero,schwarz;0
+il pacco,das Paket;0
+il panificio,die Baeckerei;0
+la passata di pomodoro,die passierten Tomaten;0
+il pasto,die Mahlzeit;0
+la patata,die Kartoffel;0
+la pesca,der Pfirsich;1
+il prezzo,der Preis;0
+piuttosto,ziemlich;0
+la primavera,der Fruehling;0
+il prodotto,das Produkt;0
+il prodotto biologico,das Bioprodukt;0
+il prosciutto,der Schinken;1
+quant'e`?,wie viel macht das?;1
+il resto,der Rest;1
+la ricetta,das Rezept;0
+il salame,die Wurst;0
+il sapore,der Geschmack;0
+il sedano,der Sellerie;0
+sottile,duenn;0
+la spesa,der Einkauf;1
+stagionato,reif;0
+la stagione,die Jahreszeit;0
+tagliare,schneiden;0
+togliere,herausnehmen;0
+troppo,zu viel;0
+il vasetto,das Glas;0
+verde,gruen;1
+la verdura,das Gemuese;0
+versare,giessen;0
+lo yogurt magro,der Magerjogurt;0
+la vita quotidiana,das Alltagsleben;2
+il cartone animato,der Zeichentrickfilm;0
+il calcetto,der Hallenfussball;0
+farsi la barba,sich rasieren;0
+il torneo,das Turnier;0
+il programma,das Programm;0
+la borsa,die Tasche;0
+la partita,das Spiel (eine Partie Schach);0
+alzarsi,aufstehen;1
+con calma,in aller Ruhe;0
+il campo,das Spielfeld;0
+raramente,selten;0
+svegliarsi,aufwachen;1
+lavarsi,sich waschen;0
+vestirsi,sich anziehen;1
+riposarsi,sich ausruhen;0
+fino alle,bis;0
+dalle..in poi,von..an;0
+fra..e..,zwischen..und..;0
+cantare,singen;0
+muovere,bewegen;0
+la mano,die Hand;1
+le mani,die Haende;0
+lo stereotipo,der Stereotyp;0
+irreale,unwirklich;0
+assurdo,absurd;1
+la gita,der Ausflug;0
+la gondola,die Gondel;0
+l'accompagnamento musicale,die musikalische Begleitung;0
+una volta al giorno,einmal pro Tag;0
+la maggior parte,der groesste Teil;0
+in particolare,im Besonderen;0
+il sugo,die Sauce;0
+diverso,verschieden;0
+trovare,finden;1
+all'estero,im Ausland;0
+secondo,gemaess;1
+alla perfezione,zur Perfektheit;0
+seguire,folgen;0
+sotto l'ombrellone,unter dem Sonnenschirm;0
+sacro,heilig;0
+la donna,die Frau;0
+annoiarsi,sich langweilen;0
+la parte,der Teil;0
+breve,kurz (b);0
+la pausa,die Pause;0
+in piedi,im Stehen;0
+velocemente,schnell;0
+continuamente,fortwaehrend;0
+mentre,waehrend (m);0
+accompagnare,begleiten;0
+il ragionamento,die Ueberlegung;0
+il gesto,die Geste;0
+semplice,einfach (s);0
+una vola l'anno,einmal pro Jahr;0
+fuori,draussen;0
+a volte,manchmal;0
+la tuta,der Trainingsanzug;0
+il Natale,die Weihnachten;1
+la festa dei lavoratori,der Tag der Arbeit;0
+il Capodanno,das Neujahr;0
+l'innamorato,der Verliebte;0
+il compleanno,der Geburtstag;0
+la prova,die Pruefung;0
+la prova,der Beweis;0
+prima di,vor;0
+notizia,die Nachricht;0
+l'esame,das Examen;0
+emozionato,aufgeregt;0
+la famiglia,die Familie;2
+il nonno,der Grossvater;1
+il nipote,der Enkel;1
+la nipote,die Nichte;0
+la lezione,der Unterricht;0
+l'anziao,die aeltere Person;0
+l'obiettivo,das Ziel;1
+il dietrofront,die Kehrtwendung;0
+il marito,der Ehemann;0
+votare,waehlen;0
+la madre,die Mutter;0
+nascere,geboren werden;0
+il padre,der Vater;1
+il fratello,der Bruder;0
+crescere,aufwachsen;0
+il filgio unico,das Einzelkind;0
+il genitore,der Elternteil;0
+il cugino,der Cousin;1
+il titolo,der Titel;0
+da meno di,seit weniger als;0
+giovane,jung;0
+la casalinga,die Hausfrau;1
+numeroso,zahlreich;0
+immaginare,annehmen;0
+il mammone,das Muttersoehnchen;0
+chi di voi ha..?,wer von euch hat..?;1
+come promesso,wie versprochen;1
+mandare,schicken;0
+il matrimonio,die Hochzeit;1
+sposarsi,heiraten;0
+la cerimonia,die Zeremonie;0
+il parente stretto,der enge Verwandte;0
+il suocero,der Schwiegervater;0
+a proposito,uebrigens;0
+i miei genitori,meine Eltern;0
+in pensione,in Rente;0
+biondo,blond;1
+separarsi,sich trennen;2
+trasferirsi,umziehen;0
+fuori citta`,ausserhalb der Stadt;0
+la parentela,die Verwandtschaft;0
+arrabbiarsi,sich aergern;0
+dedicarsi,sich widmen;0
+per anni,jahrelang;0
+in media,im Durchschnitt;0
+la femmina,das Maedchen;0
+il maschio,der Junge (m);0
+piu` volte,mehrmals;0
+la famiglia di origine,die urspruengliche Familie;0
+la convivenza,das Zusammenleben;0
+adulto,erwachsen;0
+la ragazza madre,alleinerziehende Mutter;0
+la famiglia allargata,die Patchwork-Familie;0
+tradizione,Tradition;0
+assistere,pflegen;0
+malato,krank;1
+la coppia,das (Ehe)Paar;0
+stesso,gleich;1
+la differenza,der Unterschied;1
+regalare,schenken;0
+proporre,vorschlagen;0
+il regalo,das Geschenk;0
+la lista di nozze,die Hochzeitsliste;0
+il viaggio di nozze,die Hochzeitsreise;0
+anonimo,anonym;1
+evitare,vermeiden;1
+rivevere,erhalten;0
+in effetti,in der Tat;0
+speciale,speziell;0
+a sorpresa,Ueberaschungs-;0
+accidenti,verflixt;0
+accorgersi di,etwas bemerken;0
+affettuoso,liebevoll;0
+al posto tuo,an deine Stelle;1
+alto,gross (a);1
+ambizioso,ehrgeizig;0
+anziano,alt;1
+assomigliare a,jemandem aehnlich sein;1
+attraente,attraktiv;1
+la barba,der Bart;0
+basso,klein (b);0
+bello,schoen;1
+ben proporzionato,gut proportioniert;0
+bianco,weiss;1
+la Bilancia,die Waage;1
+biondo,blond;0
+bruttino,ziemlich haesslich;1
+brutto,haesslich;0
+calvo,glatzkoepfig;1
+il campeggio,der Campingplatz;1
+il Cancro,der Krebs;0
+il Capricorno,der Steinbock;0
+il casino,das Chaos;2
+castano,braun (b);0
+dappertutto,ueberall;0
+dare un consiglio,einen Rat geben;1
+da solo,allein;0
+il deserto,die Wueste;1
+disegnare,zeichnen;0
+divertente,lustig;0
+esprimere un desiderio,einen Wunsch aeussern;1
+essere alla ricerca di,auf der Suche sein nach;0
+la faccia,das Gesicht;1
+farcela,es schaffen;1
+fare una proposta,einen Vorschlag machen;0
+il fazzoletto,das Taschentuch;0
+il fidanzato,der Verlobte;0
+figurati,gern geschehen (f);0
+la gamba,das Bein;0
+generoso,grosszuegig;1
+giovane,jung;0
+grasso,fett;0
+i baffi,der Schnurrbart;0
+i capelli,die Haare;0
+i Gemelli,die Zwillinge;1
+i Pesci,die Fische;2
+l'Acquario,der Wassermann;1
+l'Ariete,der Widder;0
+l'aspetto fisico,das Aussehen;0
+il Leone,der Loewe (Sternzeichen);1
+liscio,glatt;0
+l'occhio,das Auge;1
+l'oroscopo,das Horoskop;0
+magro,duenn;0
+nascondere,verstecken;1
+nero,schwarz;0
+nessuno,niemand;1
+noioso,langweilig;1
+nonostante,trotz;0
+ormai,nun,schon;0
+paziente,geduldig;1
+pettinarsi,sich kaemmen;0
+il piede,der Fuss;0
+portare a spasso,spazieren fuehren;0
+il principe azzurro,der Maerchenprinz;1
+qualcuno,jemand;0
+riccio,lockig;0
+la ruga,die Falte;0
+il sacco a pelo,der Schlafsack;0
+il Sagittario,der Schuetze;0
+scherzare,scherzen;0
+lo Scorpione,der Skorpion;0
+sensibile,sensibel;1
+sicuro di e/,selbstsicher;0
+socievole,gesellig;1
+stirare,buegeln;0
+testardo,stur;0
+tingere,faerben;0
+il Toro,der Stier;0
+trattarsi di,sich handeln um;0
+venire in mente,in den Sinn kommen;0
+la Vergine,die Jungfrau;1
+accettare,akzeptieren;0
+ad alta voce,mit lauter Stimme;1
+il biglietto,die Eintrittskarte;0
+il botteghino,die Kasse (b);0
+le buone maniere,die guten Manieren;1
+capitare,passieren (c);0
+chiacchierare,plaudern;1
+il cinema,das Kino;2
+il commento,der Kommentar;1
+comparire,auftreten;0
+il comportamento,das Verhalten;0
+il concerto,das Konzert;0
+corretto,richtig (c);0
+la dieta,die Diaet;1
+e` capitato,es ist passiert (c);0
+esatto,exakt;0
+fare la fila,Schlange stehen;2
+fastidioso,laestig;0
+la festa,das Fest;0
+la fila,die Reihe;1
+gia`,schon;1
+l'arte,die Kunst;1
+l'impegno,die Verpflichtung,Termin;1
+l'opera d'arte,das Kunstwerk;0
+l'orchestra,das Orchester;1
+il luogo pubblico,der oeffentliche Ort;1
+magari,vielleicht (m);1
+matto,verrueckt;0
+ne vale la pena,es lohnt sich;0
+notare,bemerken;0
+la poltrona,der Sessel;0
+il posto a sedere,der Sitzplatz;0
+preoccuparsi,sich Sorgen machen;2
+la presenza,die Anwesenheit;0
+prima,frueher;1
+il programma,das Programm;0
+la proposta,der Vorschlag;0
+puntuale,puenktlich;1
+la rappresentazione,die Auffuehrung;0
+riaccompagnare,wieder zurueck begleiten;0
+rifiutare,ablehnen;0
+il rumore,der Laerm;1
+lo schermo,der Bildschirm;1
+la selezione,die Auswahl;1
+sono al verde,ich bin pleite;1
+spegnere,ausschalten;0
+lo spettacolo,die Veranstaltung;0
+starnutire,niesen;0
+il tempo libero,die Freizeit;1
+tossire,husten;0
+veramente,eigentlich;0
