@@ -13,8 +13,18 @@
 	or because they need to be learned more because they have often been wrong in past learning sessions.
 	This results in optimal focus on expressions.
 
+	Features:
+	-In the beginning the user will be asked to learn expressions or add new ones. By choosing to add new expressions,
+	 the new expressions can be directly input which will then be added to the library file as soon as the adding
+	 session via input 'quit' is terminated.
+	-During learning session it is possible to correct wrong saved expressions. As soon as the wrong expression occured, 'change'
+	 can be used as input. This will open the possibility to change the expression and as soon as the change is accepted via 'yes' as input
+	 the learning session continues.
+
 	To finish the learning session, write quit as input. As remark, it will list all wrong answered expressions so that they can 
 	looked at and learned for further progress.
+
+	
 */
 
 #include <iostream>
@@ -26,7 +36,7 @@
 #include <algorithm>
 using namespace std;
 
-// Define array of samples
+// Define struct of samples
 struct sample {
 	string it,ge;
 	int value;
@@ -81,9 +91,11 @@ int main()
 		// Close file
 		infile.close();
 
+		// Initialize
 		cout << endl << "Hi, nice to see you motivated to learn words!" << endl;
 		cout << "So far, there are " << number_lines << " words in your list" << endl;
-
+		cout << "To terminate the learning session, type 'quit' at any time." << endl;
+		cout << "To change a wrong expression, type 'change' immediately." << endl;
 		int weaksamples[number_lines];
 		int wronganswered[100] = {0};
 		int wrong = 0;
@@ -134,9 +146,26 @@ int main()
 						data[index].value--;
 					}
 				}
+				// Implement change option in case a mistake has been found during learn session.
+				if (input == "change")
+				{
+					string change, changege, changeit;
+					change = "change";
+					while (change != "yes")
+					{
+						cout << "You want to change this word, please input the correct german word" << endl;
+						getline(cin, changege);
+						data[index].ge = changege;
+						cout << "And now the correct italian word" << endl;
+						getline(cin, changeit);
+						data[index].it = changeit;
+						cout << "Is this correct?[yes]" << endl << data[index].ge << " = " << data[index].it << endl;
+						getline(cin, change);
+					}
+				}
 			}
 			else {
-				// List all wrong answered words so that they can be learned for next sessions.
+				// List all wrong answered words so that they can be learned for future sessions. (up to 100 words)
 				cout << endl << "Have a nice day. Here are the words you answered wrong:" << endl << endl;
 				for (int w=0; w <= 99; w++)
 				{
@@ -159,10 +188,12 @@ int main()
 
 		
 	}
+	// Implement option to add new words to library.
 	else {
 		ofstream myfile("library.txt", fstream::app);
 		string itw, gew;
 		while (itw != "quit") {
+			cout << "Nice to see you have new expressions. To terminate the adding session, type 'quit' at any time." << endl;
 			cout << "Italian word: ";
 			getline(cin, itw);
 			if (itw != "quit") {
